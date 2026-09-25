@@ -1,0 +1,19 @@
+PAULOZINXZ_BOT — PADRÃO DE MENSAGENS
+
+SUCESSO
+✓ Operação concluída com sucesso.
+
+AVISO
+▲ Atenção: verifique os dados informados.
+
+ERRO
+✕ Não foi possível concluir a operação.
+
+PERMISSÃO
+🔒 Você não possui permissão para usar este comando.
+
+GRUPO
+👥 Este comando deve ser usado em um grupo.
+
+COMANDO NÃO ENCONTRADO
+❓ Comando não encontrado. Use /menu para consultar os comandos disponíveis.

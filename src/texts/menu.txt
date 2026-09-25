@@ -1,0 +1,11 @@
+🤖 PAULOZINXZ_BOT
+⚡ v8.11.0 • Prefixo: /
+🟢 ONLINE
+
+O menu é atualizado automaticamente a partir dos módulos ativos.
+
+ORDEM DO MENU
+👑 Proprietário
+🛡️ Administração
+👤 Membros
+⚡ Acesso rápido
