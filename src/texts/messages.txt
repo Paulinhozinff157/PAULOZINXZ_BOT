@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+PAULOZINXZ_BOT — PADRÃO DE MENSAGENS
+
+SUCESSO
+✓ Operação concluída com sucesso.
+
+AVISO
+▲ Atenção: verifique os dados informados.
+
+ERRO
+✕ Não foi possível concluir a operação.
+
+PERMISSÃO
+🔒 Você não possui permissão para usar este comando.
+
+GRUPO
+👥 Este comando deve ser usado em um grupo.
+
+COMANDO NÃO ENCONTRADO
+❓ Comando não encontrado. Use /menu para consultar os comandos disponíveis.
+=======
+╭─〔 🤖 PAULOZINXZ_BOT 〕─╮
+│ 👑 Dono: PAULOZINXZ
+╰────────────────────────╯
+
+SUCESSO
+╰─ ✅ *Concluído!* A operação foi realizada com sucesso.
+
+AVISO
+╰─ ⚠️ *Atenção!* Confira os dados e tente novamente se necessário.
+
+ERRO
+╰─ ❌ *Não foi possível concluir.* Tente novamente em instantes.
+
+PERMISSÃO
+╰─ 🔐 *Acesso negado.* Você não possui permissão para usar este comando.
+
+GRUPO
+╰─ 👥 *Comando para grupos.* Use este comando dentro de um grupo.
+
+COMANDO NÃO ENCONTRADO
+╰─ 🔎 *Comando não encontrado.* Use .menu para ver os comandos disponíveis.
+
+RODAPÉ PADRÃO
+╰─ ⚡ *PAULOZINXZ_BOT* • 👑 *PAULOZINXZ*
+>>>>>>> 7b68792 (Atualização do bot)
