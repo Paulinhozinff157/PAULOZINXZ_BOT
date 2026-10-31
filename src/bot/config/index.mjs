@@ -1,0 +1,38 @@
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+import { createRequire } from "node:module";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const require = createRequire(import.meta.url);
+const settings = require("./personalizacao.json");
+const SRC_DIR = path.resolve(__dirname, "../..");
+const ROOT_DIR = path.resolve(SRC_DIR, "..");
+
+export const PREFIX = settings.prefix || ".";
+export const BOT_EMOJI = "";
+export const COMMAND_REACTION_EMOJI = "🪄";
+export const BOT_NAME = settings.NomeDoBot || "PAULOZINXZ_BOT";
+export const OWNER_NAME = settings.NickDono || "PAULOZINXZ";
+export const TEXTS = settings.textos || {};
+export const MENU_TEXT = settings.menu || {};
+export const BOT_IMAGE_URL = settings.imagemPadrao || "";
+export const STICKER_PACK = settings.figurinha?.pacote || BOT_NAME;
+export const STICKER_AUTHOR = settings.figurinha?.autor || OWNER_NAME;
+export const CHANNEL_INVITE_URL = "https://whatsapp.com/channel/0029Vb8tJ5x77qVZnxr3oC3C";
+export const OWNER_PHONE = settings.numerodono || "";
+export const BOT_LID = "115157351059667@lid";
+export const OWNER_LID = "115157351059667@lid";
+export const OWNER_DELEGATE_LIDS = [];
+export const COMMANDS_DIR = path.join(SRC_DIR, "commands");
+export const DATABASE_DIR = path.join(ROOT_DIR, "database");
+export const ASSETS_DIR = path.join(SRC_DIR, "bot", "assets");
+export const TEMP_DIR = path.join(ASSETS_DIR, "temp");
+export const TIMEOUT_IN_MILLISECONDS_BY_EVENT = 150;
+export const SPIDER_API_BASE_URL = "https://api.spiderx.com.br/api";
+export const SPIDER_API_TOKEN = "seu_token_aqui";
+export const LINKER_BASE_URL = "https://linker.devgui.dev/api";
+export const LINKER_API_KEY = "seu_token_aqui";
+export const ONLY_GROUP_ID = "";
+export const DEVELOPER_MODE = false;
+export const OPENAI_API_KEY = "";

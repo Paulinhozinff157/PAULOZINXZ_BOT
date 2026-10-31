@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.vscode
+assets/auth/baileys
+assets/auth/legacy-api-keys.json
+assets/temp/
+assets/temp/wa-logs.txt

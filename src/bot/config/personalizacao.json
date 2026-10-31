@@ -1,0 +1,75 @@
+{
+  "prefix": ".",
+  "NomeDoBot": "PAULOZINXZ_BOT",
+  "NickDono": "PAULOZINXZ",
+  "numerodono": "5581995597603",
+  "numerodono_lid": "115157351059667",
+  "figurinha": {
+    "pacote": "PAULOZINXZ • STICKERS",
+    "autor": "PAULOZINXZ"
+  },
+  "imagemPadrao": "https://files.catbox.moe/ufx3qz.jpg",
+  "textos": {
+    "figurinhaAguarde": "⏳ *Preparando sua figurinha...*\n> Só um instante.",
+    "figurinhaUso": "🖼️ *Envie uma imagem ou vídeo/GIF*\n> Vídeos/GIFs: até 10 segundos.",
+    "menuAjuda": "💡 Use {prefix}info <comando> para ver os detalhes.",
+    "menuTagline": "✨ completo • rápido • organizado",
+    "menuInfo": "• {prefix}info <comando> — detalhes do comando",
+    "menuAtalho": "• {prefix}menu — abrir o menu principal",
+    "mediaRodape": "🤖 *{bot}*  •  👑 *{dono}*",
+    "menuIntro": "✨ *Seu bot. Seus comandos. Seu estilo.*",
+    "assinatura": "🤖 *{bot}*  •  👑 *{dono}*",
+    "stickerPack": "PAULOZINXZ • STICKERS",
+    "stickerAuthor": "PAULOZINXZ"
+  },
+  "menu": {
+    "secoes": {
+      "owner": "👑 DONO",
+      "admin": "🛡️ ADMINISTRAÇÃO",
+      "protection": "🔒 PROTEÇÃO",
+      "member": "👤 MEMBROS",
+      "downloads": "⬇️ DOWNLOADS",
+      "paulozinxz18": "🎬 PAULOZINXZ18",
+      "legacy": "⚡ UTILIDADES"
+    }
+  },
+  "frases": {
+    "MENSAGEM_DE_SO_USAR_EM_GRUPO": "> 👥 *Comando exclusivo para grupos.*\n> Use este comando dentro de um grupo para continuar.",
+    "MENSAGEM_DE_SO_DONO_USAR_COMANDOS": "> 👑 *Acesso restrito ao dono.*\n> Este comando é exclusivo para o proprietário.",
+    "MENSAGEM_DE_SO_ADM_CONSEGUIR_USAR_X_COMANDO": "> 🛡️ *Acesso restrito.*\n> Apenas administradores podem usar este comando.",
+    "MENSAGEM_DE_QUANDO_O_BOT_NAO_E_ADM": "> 🤖 *Preciso de permissão de administrador.*\n> Promova o bot e tente novamente.",
+    "MENSAGEM_DE_SO_QUANDO_MODO_BRINCADEIRA_FOR_ATIVO": "> 🎮 *Modo brincadeira está desativado.*\n> Ative com {prefix}modobrincadeira.",
+    "MENSAGENS_DE_AGUARDE": [
+      "⏳ Processando seu pedido...",
+      "⚡ Só um instante...",
+      "🔄 Preparando tudo..."
+    ],
+    "LINK_COMANDO_CASAL": "https://xatimg.com/image/K88c2BkQwlcF.jpg",
+    "TEXTO_COMANDO_CASAL": "💞 *Casal do grupo*\n> Compatibilidade: #porcentagem#% ✨",
+    "PALAVRAS_PROIBIDA_DE_O_SIMI_FALAR": [
+      "porra",
+      "carai",
+      "caralho",
+      "buceta",
+      "bct",
+      "teu cu",
+      "meu pau",
+      "minha chibata",
+      "pika",
+      "seu cu",
+      "sexo",
+      "gozar",
+      "gozei"
+    ],
+    "COMANDO_BAN_MENSAGEM": "> 🚫 #usuario# foi removido do grupo.",
+    "COMANDO_PROMOVEU_MENSAGEM": "> 🛡️ #usuario# agora é administrador.",
+    "COMANDO_REBAIXOU_MENSAGEM": "> 👤 #usuario# voltou a ser membro.",
+    "TEXTO_REMOCAO_ANTI_LINK": "🤺_𝘼𝙦𝙪𝙞 𝙣𝙖‌𝙤 𝙥𝙤𝙙𝙚 𝙢𝙖𝙣𝙙𝙖𝙧 ~(𝗟𝗜𝗡𝗞𝘀)~ 𝙣𝙖‌𝙤 𝙡𝙚𝙪 𝙖𝙨 𝙍𝙚𝙜𝙧𝙖𝙨 🤔",
+    "LIMITE_CARACTERES_MSG": "🏌🏻‍♂️_𝙑𝙖𝙯𝙖 𝙙𝙖𝙦𝙪𝙞 𝘾𝙖𝙧𝙣𝙞𝙘̧𝙖!  𝙇𝙚𝙧 𝙖 𝙥𝙤𝙧𝙧𝙖 𝙙𝙖𝙨 𝙍𝙚𝙜𝙧𝙖𝙨  𝙦𝙪𝙖𝙣𝙙𝙤 𝙚𝙣𝙩𝙧𝙖𝙧 𝙚𝙢 𝙂𝙧𝙪𝙥𝙤𝙨_🤺",
+    "LISTA_NEGRA_GLOBAL_MENSAGEM": "🫵🏻 𝙊𝙡𝙝𝙖 𝙦𝙪𝙚𝙢 𝙙𝙚𝙪 𝙖𝙨 𝘾𝙖𝙧𝙖𝙨 𝙥𝙤𝙧 𝙖𝙦𝙪𝙞.  𝘼𝙦𝙪𝙞 𝙫𝙤𝙘𝙚̂ 𝙣𝙖̃𝙤 𝙫𝙖𝙞 𝙗𝙖𝙜𝙪𝙣𝙘̧𝙖 𝙣𝙖̃𝙤!  𝙎𝙞𝙣𝙩𝙖 𝙤 𝙥𝙤𝙙𝙚𝙧 𝙙𝙤 𝘽𝙖𝙣 🤬\n🤺_𝗩𝗔𝗭𝗔 𝗖𝗔𝗕𝗔𝗖̧𝗢_🏌",
+    "MENSAGEM_GRUPO_ABRIU": "> 🟢 *GRUPO ABERTO*\n> Todos podem enviar mensagens.",
+    "MENSAGEM_GRUPO_FECHOU": "> 🔴 *GRUPO FECHADO*\n> Apenas administradores podem enviar mensagens."
+  },
+  "aniversario": false,
+  "modoregistro": false
+}

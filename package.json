@@ -1,0 +1,25 @@
+{
+  "name": "paulozinxz_bot",
+  "version": "8.11.0",
+  "description": "Bot de WhatsApp PAULOZINXZ_BOT.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node --test ./src/test.js",
+    "check": "node ./scripts/check-project.mjs",
+    "patch:baileys": "node ./scripts/patch-baileys.mjs",
+    "postinstall": "node ./scripts/patch-baileys.mjs && node ./scripts/create-nomedia.mjs"
+  },
+  "engines": {
+    "node": ">=22.8.0"
+  },
+  "dependencies": {
+    "axios": "^1.14.0",
+    "baileys": "7.0.0-rc14",
+    "form-data": "^4.0.4",
+    "node-cache": "^5.1.2",
+    "openai": "^6.33.0",
+    "pino": "^10.3.1"
+  }
+}
